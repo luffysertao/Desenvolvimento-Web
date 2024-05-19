@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina de Felipe Amorim</title>
+</head>
+<body>
+    <h1>Primeiro projeto do curso</h1>
+    
+    <h2>Título Secundário 1</h2>
+    <p>Lorem ipsum dolor sit amet, <b>consectetur adipiscing elit</b>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    
+    <h2>Título Secundário 2</h2>
+    <p> Duis aute irure dolor in <i>reprehenderit in voluptate</i> velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    
+    <h2>Título Secundário 3</h2>
+    <p>Curabitur pretium <u>sagittis</u> orci, non condimentum tortor ultricies a. Vivamus ac justo sit amet orci ultricies dignissim ut id felis. Phasellus <i><b>tincidunt</b></i> quam nec leo cursus, quis malesuada dolor facilisis.</p>
+</body>
+</html>
