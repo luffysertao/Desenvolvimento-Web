@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receita de Bolo de Chocolate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto 20px;
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bolo de Chocolate</h1>
+        <img src="bolo-de-chocolate.jpg" alt="Bolo de Chocolate">
+        
+        <h2>Ingredientes:</h2>
+        <ul>
+            <li>2 xícaras de farinha de trigo</li>
+            <li>1 e 1/2 xícaras de açúcar</li>
+            <li>3/4 xícara de cacau em pó</li>
+            <li>1 e 1/2 colheres de chá de fermento em pó</li>
+            <li>1 e 1/2 colheres de chá de bicarbonato de sódio</li>
+            <li>1 colher de chá de sal</li>
+            <li>2 ovos</li>
+            <li>1 xícara de leite</li>
+            <li>1/2 xícara de óleo vegetal</li>
+            <li>2 colheres de chá de extrato de baunilha</li>
+            <li>1 xícara de água fervente</li>
+        </ul>
+        
+        <h2>Instruções de Preparo:</h2>
+        <p>1. Preaqueça o forno a 180°C. Unte e enfarinhe uma forma de bolo.</p>
+        <p>2. Em uma tigela grande, misture a farinha, o açúcar, o cacau, o fermento, o bicarbonato e o sal.</p>
+        <p>3. Adicione os ovos, o leite, o óleo e a baunilha. Bata em velocidade média por cerca de 2 minutos.</p>
+        <p>4. Misture a água fervente na massa (a massa ficará bem líquida).</p>
+        <p>5. Despeje a massa na forma preparada e asse por 30-35 minutos, ou até que um palito inserido no centro do bolo saia limpo.</p>
+        <p>6. Deixe esfriar na forma por 10 minutos, depois transfira para uma grade para esfriar completamente.</p>
+        
+        <p>Para mais dicas e variações dessa receita, visite <a href="https://www.tudogostoso.com.br/receita/62547-a-melhor-receita-de-bolo-de-chocolate.html" target="_blank">este site de culinária</a>.</p>
+    </div>
+</body>
+</html>
