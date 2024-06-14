@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Felipe Amorim</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+        }
+
+        section {
+            margin: 2rem auto;
+            padding: 1rem;
+            max-width: 800px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 0.5rem;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: #e4e4e4;
+            margin: 0.5rem 0;
+            padding: 0.5rem;
+            border-radius: 4px;
+        }
+
+        .project {
+            margin: 1rem 0;
+        }
+
+        .project h3 {
+            margin: 0;
+        }
+
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Felipe Amorim</h1>
+        <p>Estudante de Engenharia da Computação na UEFS</p>
+    </header>
+    
+    <section id="about">
+        <h2>Sobre Mim</h2>
+        <p>Sou estudante de Engenharia da Computação na UEFS e tenho experiência em projetos de web design e desenvolvimento de sites interativos. Sou apaixonado por tecnologia e sempre busco aprender e aplicar novos conhecimentos.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Competências e Habilidades</h2>
+        <ul>
+            <li>HTML5, CSS3</li>
+            <li>JavaScript</li>
+            <li>Design Responsivo</li>
+            <li>Desenvolvimento de Sites Interativos</li>
+            <li>Git e Controle de Versão</li>
+            <li>Trabalho em Equipe</li>
+            <li>Resolução de Problemas</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projetos e Trabalhos Realizados</h2>
+        <div class="project">
+            <h3>Projeto de Web Design</h3>
+            <p>Desenvolvi um site interativo para uma pequena empresa, focando na experiência do usuário e design responsivo.</p>
+        </div>
+        <div class="project">
+            <h3>Site Interativo</h3>
+            <p>Criei um site interativo utilizando HTML, CSS e JavaScript, que inclui animações e efeitos visuais para melhorar a interação do usuário.</p>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Email: felipedocarmo05@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/felipe-amorim-do-carmo-silva-383b50227/" target="_blank"linkedin.com/in/felipe-amorim-do-carmo-silva-383b50227//a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Felipe Amorim. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
